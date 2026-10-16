@@ -1,5 +1,5 @@
 # Hello, I'm Angel L. Echevarria
-<a href="www.linkedin.com/in/angel-echevarria-g"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angel-echevarria-g"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 As an Army veteran and recent graduate, I am passionate about Information Technology and dedicated to ongoing professional growth.
