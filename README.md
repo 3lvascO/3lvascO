@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Administration and Support            | NorthStar IT Lab|
+| Windows Administration and Support            | <a href="https://github.com/3lvascO/NorthStar-IT-Lab/tree/main">NorthStar IT Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -52,5 +52,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/3lvascO/NorthStar-IT-Lab/tree/main">NorthStar IT Lab</a>
 - SOC Automation Project
