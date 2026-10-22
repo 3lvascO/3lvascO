@@ -14,21 +14,24 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Administration and Support            | <a href="https://github.com/3lvascO/NorthStar-IT-Lab/tree/main">NorthStar IT Lab</a>|
-| SIEM Implementation and Log Analysis          | Lab|
-| Network Traffic Monitoring and Attack Detection | Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Not Started |
+| Network Traffic Monitoring and Attack Detection | Not Started |
+| Security Automation with Shuffle SOAR         | Not Started |
+| Incident Response Planning and Execution      | Not Started |
+| Case Management with TheHive                  | Not Started |
+| Scripting and Automation for Threat Mitigation | Not Started |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Hypervisor
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
