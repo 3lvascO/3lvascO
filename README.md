@@ -7,7 +7,7 @@ As an Army veteran and recent graduate, I am passionate about Information Techno
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for IT & cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or System Administration roles.
 This **portfolio** showcases my hands-on experience in technical support, systems administration, and cybersecurity.
 **Please note that this porfolio its on its early stages.**
 
