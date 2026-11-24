@@ -24,7 +24,7 @@ This **portfolio** showcases my hands-on experience in technical support, system
 | Scripting and Automation for Threat Mitigation | Not Started |
 
 ## Tools
-
+Relevant tools utilized throught my projects.
 
 ### Hypervisor
 <div>
